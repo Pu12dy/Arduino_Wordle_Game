@@ -4,6 +4,9 @@
 
 ### Demo Video: https://www.youtube.com/watch?v=XyiMS7zxfCw 
 
+## System Design:  
+![Wiring](assets/WiringDiagram.jpg)
+
 ## Project Disctription:
 This project is a simpled wordle using the Joystick, LCD Display, and the Buzzer. Worlde is a word guessing game.
 - The basic behavior is as follows:
